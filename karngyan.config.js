@@ -51,7 +51,7 @@ export default {
   },
   resume: {
     enabled: true,
-    pdfUrl: '/MohammedRazin13052022.pdf' // add files in static folder
+    pdfUrl: '/MohammedRazinResume.pdf' // add files in static folder
   },
   uses: {
     enabled: false,
